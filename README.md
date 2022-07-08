@@ -1,1 +1,1 @@
-This is a project practising me html skills and helping me master my cli commands
+This is a project practising my html skills and helping me master my cli commands
